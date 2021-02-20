@@ -20,4 +20,3 @@ document.body.addEventListener('click', function (e) {
     nav.classList.remove('active')
     document.body.classList.remove('lock-scroll');
 })
-document.body.addEventListener('click', toggleMenuIcon);
